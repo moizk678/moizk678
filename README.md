@@ -14,7 +14,7 @@ I'm a **Full Stack AI Engineer** specializing in building intelligent SaaS platf
 - 🎓 Bachelor of Science in Computer Sciences from **AIR University** (2021-2025)
 - 💼 Delivered **5+ production-grade SaaS platforms** with measurable business impact
 - 🤖 Expert in **LLMs, OpenAI API, and AI-powered automation**
-- 📍 Location: Dammam, Saudi Arabia | Status: Transferable Iqama
+- 📍 Location: Dammam, Saudi Arabia
 - 📫 Reach me: **moizk678@gmail.com** | **+966565098327**
 
 ---
