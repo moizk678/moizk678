@@ -14,7 +14,7 @@ Full Stack AI Engineer specializing in building intelligent SaaS platforms that 
 **Education:** Bachelor of Science in Computer Sciences, AIR University (2021-2025)  
 **Experience:** 5+ production-grade SaaS platforms with measurable business impact  
 **Expertise:** LLMs, OpenAI API, and AI-powered automation  
-**Location:** Dammam, Saudi Arabia | Transferable Iqama  
+**Location:** Dammam, Saudi Arabia 
 **Contact:** moizk678@gmail.com | +966565098327
 
 ---
@@ -86,20 +86,6 @@ Full Stack AI Engineer specializing in building intelligent SaaS platforms that 
 ![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 ![Twilio](https://img.shields.io/badge/-Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/-WhatsApp_Business-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-
----
-
-## GitHub Statistics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moizk678&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moizk678&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=C9D1D9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=moizk678&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7)
-
-</div>
 
 ---
 
