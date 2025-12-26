@@ -1,4 +1,4 @@
-# Hi there, I'm Muhammad Moiz Khan 👋
+# Muhammad Moiz Khan
 
 <div align="center">
   
@@ -6,62 +6,44 @@
 
 </div>
 
-## 🚀 About Me
+## About Me
 
-I'm a **Full Stack AI Engineer** specializing in building intelligent SaaS platforms that leverage cutting-edge AI technologies. Based in **Dammam, Saudi Arabia**, I transform complex business challenges into scalable, AI-powered solutions.
+Full Stack AI Engineer specializing in building intelligent SaaS platforms that leverage cutting-edge AI technologies. Based in Dammam, Saudi Arabia, I transform complex business challenges into scalable, AI-powered solutions.
 
-- 🔭 Currently working on **AI Marketing & Lead Conversion Platform** with 95%+ OCR accuracy
-- 🎓 Bachelor of Science in Computer Sciences from **AIR University** (2021-2025)
-- 💼 Delivered **5+ production-grade SaaS platforms** with measurable business impact
-- 🤖 Expert in **LLMs, OpenAI API, and AI-powered automation**
-- 📍 Location: Dammam, Saudi Arabia
-- 📫 Reach me: **moizk678@gmail.com** | **+966565098327**
-
----
-
-## 💼 Featured Projects
-
-### 🎯 [AI Marketing & Lead Conversion Platform](https://ai-business-card-frontend.vercel.app/)
-**Full Stack AI Engineer** | Nov 2025 - Present
-- Built AI marketing platform with **95%+ OCR accuracy** and **85% lead scoring accuracy**
-- Achieved **40% higher engagement** and handles **10K+ daily messages**
-- **Tech Stack:** Next.js, NestJS, OpenAI, WhatsApp Business API, TypeScript
-
-### 🎯 [EnubiX ATS - AI-Powered Recruitment](https://ats-app-five.vercel.app/)
-**Full Stack AI Engineer** | Oct 2025 - Dec 2025
-- Reduced recruiter workload by **80%** with AI-powered automation
-- Real-time proctoring with MediaPipe achieving **99%+ accuracy**
-- **15x query performance gain** through optimization
-- **Tech Stack:** Next.js, TypeScript, OpenAI, MediaPipe, MongoDB
-
-### 🎯 [Multilingual HR Assistant](https://hr-assistant-six.vercel.app/)
-**Full Stack AI Engineer** | Nov 2025
-- AI HR assistant with **95%+ accuracy** across **29+ languages**
-- Speech-to-Text/Text-to-Speech with interactive 3D avatars
-- **Tech Stack:** Node.js, OpenAI, Whisper, ElevenLabs, React
-
-### 🎯 Airport Meet & Greet Platform
-**Full Stack AI Engineer** | Sep 2025 - Nov 2025
-- **85%+ booking extraction accuracy** with AI-powered parsing
-- Handles **100+ concurrent inquiries** via Redis/Bull queue system
-- Integrated Stripe payment processing
-- **Tech Stack:** Node.js, React, MongoDB, Redis, Bull, Stripe
-
-### 📱 PharmAssist Mobile App
-**React Native Developer** | Viscount Pharma Pvt Ltd | Mar 2025 - Sep 2025
-- **40% efficiency boost** saving **3.5 hours daily** across 50+ agents
-- **85% error reduction** in pharmaceutical operations
-- **Tech Stack:** React Native, MongoDB, Firebase
-
-### 🎓 Tap&Travel RFID Ticketing System
-**Capstone Project** | AIR University | Apr 2024 - Jun 2025
-- Full-stack RFID ticketing for **10K+ users**
-- Real-time GPS tracking and Stripe payment integration
-- **Tech Stack:** MERN Stack, Google Maps API, RFID
+**Current Focus:** AI Marketing & Lead Conversion Platform with 95%+ OCR accuracy  
+**Education:** Bachelor of Science in Computer Sciences, AIR University (2021-2025)  
+**Experience:** 5+ production-grade SaaS platforms with measurable business impact  
+**Expertise:** LLMs, OpenAI API, and AI-powered automation  
+**Location:** Dammam, Saudi Arabia | Transferable Iqama  
+**Contact:** moizk678@gmail.com | +966565098327
 
 ---
 
-## 🛠️ Tech Stack
+## Featured Projects
+
+### [AI Marketing & Lead Conversion Platform](https://ai-business-card-frontend.vercel.app/)
+95%+ OCR accuracy | 85% lead scoring accuracy | 10K+ daily messages  
+**Stack:** Next.js, NestJS, OpenAI, WhatsApp Business API
+
+### [EnubiX ATS - AI-Powered Recruitment](https://ats-app-five.vercel.app/)
+80% recruiter workload reduction | 99%+ proctoring accuracy | 15x query performance gain  
+**Stack:** Next.js, TypeScript, OpenAI, MediaPipe, MongoDB
+
+### [Multilingual HR Assistant](https://hr-assistant-six.vercel.app/)
+95%+ accuracy | 29+ language support | Speech-to-Text/Text-to-Speech with 3D avatars  
+**Stack:** Node.js, OpenAI, Whisper, ElevenLabs, React
+
+### Airport Meet & Greet Platform
+85%+ booking extraction accuracy | 100+ concurrent inquiries | Stripe integration  
+**Stack:** Node.js, React, MongoDB, Redis, Bull
+
+### PharmAssist Mobile App
+40% efficiency boost | 3.5 hours saved daily | 85% error reduction  
+**Stack:** React Native, MongoDB, Firebase
+
+---
+
+## Tech Stack
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -107,7 +89,21 @@ I'm a **Full Stack AI Engineer** specializing in building intelligent SaaS platf
 
 ---
 
-## 🏆 Achievements & Impact
+## GitHub Statistics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moizk678&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moizk678&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=C9D1D9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=moizk678&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7)
+
+</div>
+
+---
+
+## Achievements & Impact
 
 ```typescript
 const achievements = {
@@ -123,14 +119,14 @@ const achievements = {
 
 ---
 
-## 📜 Certifications
+## Certifications
 
-- 🎓 [Relational Database Design Specialization - Coursera](https://www.coursera.org/account/accomplishments/verify/EN6J3AGHNR3A)
-- 🎓 Google Data Analytics Professional Certificate - 5 Courses Completed
+- [Relational Database Design Specialization - Coursera](https://www.coursera.org/account/accomplishments/verify/EN6J3AGHNR3A)
+- Google Data Analytics Professional Certificate - 5 Courses Completed
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -145,7 +141,7 @@ const achievements = {
 
 <div align="center">
 
-### 💡 "Building intelligent solutions that transform businesses through AI"
+### "Building intelligent solutions that transform businesses through AI"
 
 ![Profile Views](https://komarev.com/ghpvc/?username=moizk678&color=2E9EF7&style=for-the-badge)
 
