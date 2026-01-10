@@ -89,22 +89,6 @@ Full Stack AI Engineer specializing in building intelligent SaaS platforms that 
 
 ---
 
-## Achievements & Impact
-
-```typescript
-const achievements = {
-  platforms_built: "5+ Production SaaS Platforms",
-  ai_accuracy: "95%+ OCR & Lead Scoring",
-  efficiency_gains: "80% Recruiter Workload Reduction",
-  scale: "10K+ Daily Messages Handled",
-  performance: "15x Query Performance Improvement",
-  error_reduction: "85% Error Reduction in PharmAssist",
-  time_saved: "3.5 Hours Daily Across 50+ Agents"
-};
-```
-
----
-
 ## Certifications
 
 - [Relational Database Design Specialization - Coursera](https://www.coursera.org/account/accomplishments/verify/EN6J3AGHNR3A)
